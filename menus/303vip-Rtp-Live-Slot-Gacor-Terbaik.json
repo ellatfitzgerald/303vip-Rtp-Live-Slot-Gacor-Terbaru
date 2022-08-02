@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle 303vip-Rtp-Live-Slot-Gacor-Terbaru",
-        "command": "303vip-Rtp-Live-Slot-Gacor-Terbaru:toggle"
+        "label": "Toggle 303vip-Rtp-Live-Slot-Gacor-Terbaik",
+        "command": "303vip-Rtp-Live-Slot-Gacor-Terbaik:toggle"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "303vip-Rtp-Live-Slot-Gacor-Terbaru",
+          "label": "303vip-Rtp-Live-Slot-Gacor-Terbaik",
           "submenu": [
             {
               "label": "Toggle",
-              "command": "303vip-Rtp-Live-Slot-Gacor-Terbaru:toggle"
+              "command": "303vip-Rtp-Live-Slot-Gacor-Terbaik:toggle"
             }
           ]
         }
